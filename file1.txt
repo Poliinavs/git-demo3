@@ -1,2 +1,0 @@
-Commit 1 in feature branch
-Commit 2 in feature branch
